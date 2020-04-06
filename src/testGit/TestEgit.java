@@ -7,6 +7,7 @@ public class TestEgit {
 		System.out.println("hello egit 01");
 		System.out.println("hello egit 02");
 		System.out.println("hello egit 03");
+		System.out.println("hello egit 04");
 	}
 
 }
